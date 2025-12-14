@@ -1,0 +1,3 @@
+/home/joseph/Desktop/OCR/ocr-venv/bin/python
+Python: Select Interpreter
+source ~/Desktop/OCR/ocr-venv/bin/activate
