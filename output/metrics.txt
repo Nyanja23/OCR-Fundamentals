@@ -1,0 +1,4 @@
+Character Count Comparison (Page 1)
+----------------------------------
+Raw image: 2798
+Processed image: 9651
