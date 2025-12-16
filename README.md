@@ -27,3 +27,9 @@ For a single page:
 
 This represents a ~245% increase in detected characters, demonstrating
 that adaptive thresholding significantly improves OCR performance.
+
+
+PSM 6 significantly outperformed other segmentation modes, producing
+9,651 characters compared to near-zero output from automatic and sparse
+text modes. This confirms that document-style pages benefit from
+explicit single-block segmentation assumptions.

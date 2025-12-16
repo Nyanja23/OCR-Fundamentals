@@ -39,7 +39,7 @@ if __name__ == "__main__":
         f"Character Count Comparison (Page 1)\n"
         f"----------------------------------\n"
         f"Raw image: {raw_count}\n"
-        f"Processed image: {processed_count}\n"
+        f"Processed image: {processed_count}\n" 
     )
 
     METRICS_PATH.write_text(report)
